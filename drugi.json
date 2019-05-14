@@ -1,0 +1,24 @@
+{
+		"Project" : {
+			"ProjectID" : "p01",
+			"ProjectName" : "project1",
+			"Employee" : [
+				{
+					"EmployeeID" : "e01",
+					"NameSurname" : "Pera Peric"
+				},
+				{
+					"EmployeeID" : "e02",
+					"NameSurname" : "Mita Mitic"
+				},
+				{
+					"EmployeeID" : "e03",
+					"NameSurname" : "Jova Jovic"
+				},
+				{
+					"EmployeeID" : "e04",
+					"NameSurname" : "Sima Simic"
+				}
+			]
+		}
+}
